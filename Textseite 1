@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+  <head>
+      <title>Catmania</title>
+      <link href="style.css" rel="stylesheet"/>
+      <meta charset="UTF-8">
+      <meta name="description" content="Wir lieben Katzen und zeigen dir, was man als Erstkatzenhalter alles beachten sollte">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>Catmania - Alles für die Katz</h1>
+  </body>
